@@ -1,5 +1,6 @@
 # Sorting Algorithm Animation
-This is a simple static webpage made as a school graduation project for depicting how various sorting algorithms work by using animations. There are 4 algorithms that are presented here: 
+This is a simple static webpage made as a school graduation project for depicting how various sorting algorithms work by using animations. You can visit it on GitHub pages by clicking on this link https://amdrija.github.io/SortingAlgorithmAnimation/.
+There are 4 algorithms that are presented here: 
  - **Quick sort**
  - **Bubble sort**
  - **Insertion sort**
