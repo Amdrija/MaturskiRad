@@ -1,0 +1,92 @@
+body{
+    background-color: #272727;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+
+.bar{
+    background-color: #14a76c;
+    width: 30px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 5px 5px 5px 5px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+    
+}
+.array-wrapper{
+    background-color: #272727;
+    height: 600px;
+    width: 100%;
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+.sort-button{
+    display: inline-block;
+}
+
+.playback-wrapper{
+    color:white;
+    padding: 5px;
+    margin: 20px 0 0 0;
+}
+
+
+.sort-button{
+    border-width: 0px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+    color: #d83f87;
+    background-color: transparent;
+    margin: 10px;
+}
+
+.playback-button{
+    border: 0px;
+    background-color: transparent;
+    color: #d83f87;
+    margin: 5px;
+}
+
+.bucket{
+    background-color: #d83f87;
+    border-radius: 5px;
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    padding: auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.bucket-wrapper{
+    background-color: #272727;
+    height: 50px;
+    width: 100%;
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+.div-number{
+    background-color:transparent;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    color: #14a76c;
+}
+
+.number-wrapper{
+    background-color: #272727;
+    height: 30px;
+    width: 100%;
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
